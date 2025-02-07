@@ -1,0 +1,2 @@
+# CodeCrafters
+Crop rotation suggestions
